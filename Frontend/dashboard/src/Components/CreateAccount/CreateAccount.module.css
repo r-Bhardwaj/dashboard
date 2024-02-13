@@ -1,0 +1,12 @@
+.container {
+    margin-top: 5%;
+  }
+  
+  .header {
+    display: flex;
+    margin-left: 42%;
+  }
+
+  .err{
+    color: red;
+  }

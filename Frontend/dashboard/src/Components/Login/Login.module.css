@@ -1,0 +1,25 @@
+.container {
+  margin-top: 5%;
+}
+
+.header {
+  display: flex;
+  margin-left: 42%;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* .form{
+    display: flex;
+    justify-content: center;
+  
+    height: 20vh;
+} */
+
+.err{
+  color: red;
+}

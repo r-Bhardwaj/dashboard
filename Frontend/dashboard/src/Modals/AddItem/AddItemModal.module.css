@@ -1,0 +1,9 @@
+.modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.modal > * {
+  margin: 10px;
+}
