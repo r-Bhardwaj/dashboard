@@ -25,7 +25,7 @@ const columns = [
       <div style={{ display: "flex", alignItems: "center", width: "100%" }}>
         <span
           style={{
-            color: params.value <= 0 ? "red" : "green",
+            color: params.value <= 10 ? "red" : "green",
             marginLeft: "3.5rem",
           }}
         >
@@ -44,7 +44,7 @@ const columns = [
       <div style={{ display: "flex", alignItems: "center", width: "100%" }}>
         <span
           style={{
-            color: params.value <= 0 ? "red" : "green",
+            color: params.value <= 10 ? "red" : "green",
             marginLeft: "3.5rem",
           }}
         >
